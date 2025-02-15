@@ -8,7 +8,7 @@ For private audits or collaborations, feel free to reach out to me via **X** ([@
 
 # Public Competitions
 
-Please find my full Portfolio [here](https://audits.sherlock.xyz/watson/0x73696d616f). I have 12 1st, 4 2nd and 5 3rd place finishes, totalling 21 top3 finishes. I achieve very high coverage percentages consistently, having found all bugs in several competitions. Additionally, I was 1st place in 6 competitions in a row. Lastly, only a handful of people were able to get to 3rd place in the Sherlock [leaderboard](https://audits.sherlock.xyz/leaderboards), and I am proudly one of them.
+Please find my full Portfolio [here](https://audits.sherlock.xyz/watson/0x73696d616f). I have 12 1st, 4 2nd and 5 3rd place finishes, totalling 21 top3 finishes. I achieve very high coverage percentages consistently, having found all bugs in several competitions. Additionally, I was 1st place in 6 competitions in a row. Lastly, only a select few have reached 3rd place on the Sherlock [leaderboard](https://audits.sherlock.xyz/leaderboards), and I am proud to be one of them.
 
 # Private Audits
 
