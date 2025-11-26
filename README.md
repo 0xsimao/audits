@@ -1,6 +1,6 @@
 # 0xSimao
 
-Also known as 0x73696d616f, which is the hexadecimal form of "Simao". I am a former Aerospace Engineer who transitioned into Web3. I approach my work with great care and responsibility, striving to achieve the highest level of coverage in every audit I undertake.
+I am a former Aerospace Engineer who transitioned into Web3. I approach my work with great care and responsibility, striving to achieve the highest level of coverage in every audit I undertake.
 
 I'm [Lead Senior Watson](https://audits.sherlock.xyz/watson/0x73696d616f) on [Sherlock](https://www.sherlock.xyz/), top ranked on [Cantina](https://cantina.xyz/leaderboard) and [Code4rena](https://code4rena.com/). I am part of [Blackthorn](https://www.blackthorn.xyz/), a top-tier auditing firm and former Head of Security at [Three Sigma](https://threesigma.xyz/). I have placed in the Top 3 in over 20 public audits and have led more than 30 private audits.
 
