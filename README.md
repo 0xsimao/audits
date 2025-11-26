@@ -4,7 +4,7 @@ Also known as 0x73696d616f, which is the hexadecimal form of "Simao". I am a for
 
 I'm [Lead Senior Watson](https://audits.sherlock.xyz/watson/0x73696d616f) on [Sherlock](https://www.sherlock.xyz/), top ranked on [Cantina](https://cantina.xyz/leaderboard) and [Code4rena](https://code4rena.com/). I am part of [Blackthorn](https://www.blackthorn.xyz/), a top-tier auditing firm and Head of Security at [Three Sigma](https://threesigma.xyz/). I have placed in the Top 3 in over 20 public audits and have led more than 30 private audits.
 
-For private audits or collaborations, feel free to reach out to me via **X** ([@0xSimao](https://x.com/0xSimao)), **Telegram** (@SimaoAmaro) or **Discord** (0x73696d616f).
+For private audits or collaborations, feel free to reach out to me via **X** ([@0xSimao](https://x.com/0xSimao)), **Telegram** (@0xSimao) or **Discord** (@0xSimao).
 
 # Public Competitions
 
