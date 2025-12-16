@@ -8,6 +8,7 @@ I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **2
 - Founding Member of [Blackthorn](https://www.blackthorn.xyz/team), a top-tier auditing firm with 11 renowned professionals in Web3 security.
 - Former Head of Security at [Three Sigma](https://threesigma.xyz/), where I led 30+ audits.
 - Hold a Master's in Aerospace Engineering, bringing advanced analytical skills to complex Web3 security audits.
+- Founder of the [Contest Academy](https://www.0xsimao.com/the-contest-academy), featuring bug deep dives, 1:1 mentorship, and guidance for competitive auditing.
 
 [Request an Audit](https://t.me/OxSimao)
 
