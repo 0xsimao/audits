@@ -21,9 +21,9 @@ I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **2
 |------|---------|------|----------|--------|
 | 28 Nov 2025 | Spirit Protocol | Solo | AI Agent | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-11-28-spirit-protocol.pdf) |
 | 11 Nov 2025 | Usual - II | Sherlock | Stablecoin | - |
-| 22 Oct 2025 | Maple Finance VI | Sherlock | Lending | [Report](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-november/Sherlock-Maple-Finance-WM-Nov-2025.pdf) |
+| 22 Oct 2025 | Maple Finance VII | Sherlock | Lending | [Report](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-november/Sherlock-Maple-Finance-WM-Nov-2025.pdf) |
 | 15 Sep 2025 | Timeswap v3 | Sherlock | Lending | - |
-| 08 Sep 2025 | Maple Finance V | Sherlock | Lending | [Report](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-sept-governor-timelock/Sherlock-Maple-Finance-timelock-Sept-2025.pdf) |
+| 08 Sep 2025 | Maple Finance VI | Sherlock | Lending | [Report](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-sept-governor-timelock/Sherlock-Maple-Finance-timelock-Sept-2025.pdf) |
 | 01 Sep 2025 | Honeypop Staking | Sherlock | Staking | - |
 | 13 Aug 2025 | Morpho Vault V2 | Blackthorn | Lending | [Report](https://github.com/morpho-org/vault-v2/blob/main/audits/2025-09-15-blackthorn.pdf) |
 | 03 Jul 2025 | Usual I | Sherlock | Stablecoin | [Report](https://1503334455-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpUhQzPJGdJzuLTQ5sCym%2Fuploads%2F8gq6et5OGqJHJGphqav6%2FSherlock-%20Audit%20report%20on%20USD0%2B%2B%20upgrade%20(Burn%20Redemption%20Mechanism).pdf?alt=media&token=27674355-9c34-496e-970d-723f522221fa) |
@@ -31,7 +31,7 @@ I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **2
 | 20 Jun 2025 | Yieldoor II | Solo | CLMM | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-06-20-yieldoor.pdf) |
 | 17 Jun 2025 | Arrakis | Sherlock | AMM | - |
 | 09 Jun 2025 | Chronicle | Sherlock | Oracle | - |
-| 05 Jun 2025 | Maple Finance IV | Sherlock | Lending | - |
+| 05 Jun 2025 | Maple Finance V | Sherlock | Lending | - |
 | 03 Jun 2025 | Beraborrow II | Sherlock | Lending | - |
 | 22 May 2025 | Pond GNN | Sherlock | AI Agent | - |
 | 12 May 2025 | Yieldoor I | Solo | CLMM | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-05-12-yieldoor.pdf) |
@@ -45,7 +45,7 @@ I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **2
 | 09 Dec 2024 | Pengu Aidrop | Three Sigma | Airdrop | [Report](https://threesigma.xyz/case-studies/airdrop/pengu) |
 | 06 Dec 2024 | Ojo Network | Three Sigma | Oracle | [Report](https://threesigma.xyz/case-studies/oracle/ojo-network-smart-contract-audit-2) |
 | 02 Dec 2024 | More Markets | Three Sigma | Lending | [Report](https://threesigma.xyz/case-studies/yield-farming/more-markets) |
-| 26 Nov 2024 | Maple Finance III | Three Sigma | Lending | [Report](https://cdn.sanity.io/files/qoqld077/staging/a68d604be9eca467b1f656c2ca775e1cebc2a468.pdf) |
+| 26 Nov 2024 | Maple Finance IV | Three Sigma | Lending | [Report](https://cdn.sanity.io/files/qoqld077/staging/a68d604be9eca467b1f656c2ca775e1cebc2a468.pdf) |
 | 11 Nov 2024 | Ojo Network | Three Sigma | Oracle | [Report](https://threesigma.xyz/case-studies/oracle/ojo-network-smart-contract-audit-2) |
 | 25 Oct 2024 | Zoo.fun | Three Sigma | Launchpad | [Report](https://threesigma.xyz/case-studies/yield-farming/more-markets) |
 | 23 Oct 2024 | Codeup | Three Sigma | Gaming | [Report](https://cdn.sanity.io/files/qoqld077/staging/d9e57830a75b5165fd56e8b88037de7986a165ec.pdf) |
@@ -57,25 +57,25 @@ I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **2
 | 25 Jun 2024 | Mitosis | Three Sigma | L1 | [Report](https://cdn.sanity.io/files/qoqld077/production/b6b3bd7bb47407d99e76abb7c6dc615c1db5018e.pdf) |
 | 19 Jun 2024 | BendDAO | Code4rena | Lending | [Report](https://code4rena.com/audits/2024-07-benddao-invitational) |
 | 13 Jun 2024 | DistrictOne | Three Sigma | Gaming | [Report](https://cdn.sanity.io/files/qoqld077/production/fd2142f1d189dd29db23dff49d4018d4da9c01d6.pdf) |
-| 10 Apr 2024 | Maple Finance II | Three Sigma | Lending | [Report](https://cdn.sanity.io/files/qoqld077/production/36dbe5ca76da3d2392bcee581548067705b8bd36.pdf) |
+| 10 Apr 2024 | Maple Finance III | Three Sigma | Lending | [Report](https://cdn.sanity.io/files/qoqld077/production/36dbe5ca76da3d2392bcee581548067705b8bd36.pdf) |
 | 06 Apr 2024 | Metazero II | Three Sigma | Staking | [Report](https://cdn.sanity.io/files/qoqld077/production/3e07b0c2806b62578b8031e88c59bc5dbd38de1b.pdf) |
-| 03 Apr 2024 | Vertex | Three Sigma | AMM | - |
-| 22 Mar 2024 | Keyring I | Three Sigma | Privacy | - |
+| 03 Apr 2024 | Vertex | Three Sigma | AMM | [Report](https://cdn.sanity.io/files/qoqld077/staging/a66d788bb2f566afcaf033870e0e15b9127ae432.pdf) |
+| 22 Mar 2024 | Keyring I | Three Sigma | Privacy | [Report](https://threesigma.xyz/case-studies/institutional/keyring-network) |
 | 15 Mar 2024 | Clip Finance II | Three Sigma | CLMM | - |
 | 26 Feb 2024 | Singularity | Three Sigma | ZK | [Report](https://cdn.sanity.io/files/qoqld077/production/45b8aac56a2b8e3b557df4329ac9bf8220b64012.pdf) |
 | 19 Feb 2024 | Ostium | Three Sigma | Derivatives | [Report](https://cdn.sanity.io/files/qoqld077/production/a95b9c69e0f65d1d6b0e649f0d62a362358ca8ce.pdf) |
-| 29 Jan 2024 | NFTPerp II | Three Sigma | Derivatives | - |
+| 29 Jan 2024 | NFTPerp II | Three Sigma | Derivatives | [Report](https://cdn.sanity.io/files/qoqld077/staging/87f617e82d5468500e950a669f30607376b37c32.pdf) |
 | 27 Jan 2024 | Metazero I | Three Sigma | Staking | [Report](https://cdn.sanity.io/files/qoqld077/production/1b1ab4ff365756fe1d86767f1e06744407570f5a.pdf) |
 | 27 Jan 2024 | Trestle | Three Sigma | Bridge | [Report](https://cdn.sanity.io/files/qoqld077/production/1b1ab4ff365756fe1d86767f1e06744407570f5a.pdf) |
 | 26 Jan 2024 | INIT Capital II | Code4rena | Lending | [Report](https://code4rena.com/reports/2024-01-init-capital-invitational) |
 | 08 Jan 2024 | M^0 | Three Sigma | Stablecoin | [Report](https://cdn.sanity.io/files/qoqld077/production/1cdafafad874aba76e062ad8c216c98338c096db.pdf) |
 | 02 Jan 2024 | NFTPerp I | Three Sigma | Derivatives | [Report](https://cdn.sanity.io/files/qoqld077/production/c19530de75e234ad15694b4563edb1fc9d2a3fd8.pdf) |
 | 15 Dec 2023 | INIT Capital I | Code4rena | Lending | [Report](https://code4rena.com/reports/2023-12-initcapital) |
-| 16 Nov 2023 | Maple Finance I | Three Sigma | Lending | [Report](https://cdn.sanity.io/files/qoqld077/production/34f2311ad7e8315d043e23054e794c136f19a079.pdf) |
+| 16 Nov 2023 | Maple Finance II | Three Sigma | Lending | [Report](https://cdn.sanity.io/files/qoqld077/production/34f2311ad7e8315d043e23054e794c136f19a079.pdf) |
 | 10 Nov 2023 | Clip Finance I | Three Sigma | CLMM | [Report](https://cdn.sanity.io/files/qoqld077/production/c23d04c8223879d2443221caf3ccb55ac118441a.pdf) |
 | 12 Jul 2023 | Glacier | Three Sigma | Staking | [Report](https://cdn.sanity.io/files/qoqld077/production/21bd3b6fa78c55968a6c9c7ea4fd49f34a8bd3d8.pdf) |
-| 06 May 2023 | Fuji Finance | Code4rena | Lending | - |
-
+| 06 May 2023 | Fuji Finance | Code4rena | Lending | [Report](https://cdn.sanity.io/files/qoqld077/staging/32181a28eac3175d15fb8924d249bb0d91ca350c.pdf) | 
+| 06 Apr 2023 | Maple Finance I | Three Sigma | Lending | [Report](https://cdn.sanity.io/files/qoqld077/staging/36dbe5ca76da3d2392bcee581548067705b8bd36.pdf) |
 
 # Public Competitions
 
