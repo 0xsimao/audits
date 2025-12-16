@@ -18,7 +18,7 @@ I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **2
 | Date | Project | Type | Category | Report |
 |------|---------|------|----------|--------|
 | 02 Dec 2025 | Usual I | Sherlock | Stablecoin | - |
-| 28 Nov 2025 | Spirit Protocol | Solo | AI Agent | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-11-28-spirit-protocol.pdf) |
+| 28 Nov 2025 | Spirit Protocol | Solo | AI Agent | [Report](https://github.com/0xSimao/audits/blob/main/2025-11-28-spirit-protocol.pdf) |
 | 11 Nov 2025 | Usual - II | Sherlock | Stablecoin | - |
 | 22 Oct 2025 | Maple Finance VII | Sherlock | Lending | [Report](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-november/Sherlock-Maple-Finance-WM-Nov-2025.pdf) |
 | 15 Sep 2025 | Timeswap v3 | Sherlock | Lending | - |
@@ -26,20 +26,20 @@ I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **2
 | 01 Sep 2025 | Honeypop Staking | Sherlock | Staking | - |
 | 13 Aug 2025 | Morpho Vault V2 | Blackthorn | Lending | [Report](https://github.com/morpho-org/vault-v2/blob/main/audits/2025-09-15-blackthorn.pdf) |
 | 03 Jul 2025 | Usual I | Sherlock | Stablecoin | [Report](https://1503334455-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpUhQzPJGdJzuLTQ5sCym%2Fuploads%2F8gq6et5OGqJHJGphqav6%2FSherlock-%20Audit%20report%20on%20USD0%2B%2B%20upgrade%20(Burn%20Redemption%20Mechanism).pdf?alt=media&token=27674355-9c34-496e-970d-723f522221fa) |
-| 23 Jun 2025 | Yieldoor III | Solo | CLMM | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-06-23-yieldoor.pdf) |
-| 20 Jun 2025 | Yieldoor II | Solo | CLMM | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-06-20-yieldoor.pdf) |
+| 23 Jun 2025 | Yieldoor III | Solo | CLMM | [Report](https://github.com/0xSimao/audits/blob/main/2025-06-23-yieldoor.pdf) |
+| 20 Jun 2025 | Yieldoor II | Solo | CLMM | [Report](https://github.com/0xSimao/audits/blob/main/2025-06-20-yieldoor.pdf) |
 | 17 Jun 2025 | Arrakis | Sherlock | AMM | - |
 | 09 Jun 2025 | Chronicle | Sherlock | Oracle | - |
 | 05 Jun 2025 | Maple Finance V | Sherlock | Lending | - |
 | 03 Jun 2025 | Beraborrow II | Sherlock | Lending | - |
 | 22 May 2025 | Pond GNN | Sherlock | AI Agent | - |
-| 12 May 2025 | Yieldoor I | Solo | CLMM | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-05-12-yieldoor.pdf) |
+| 12 May 2025 | Yieldoor I | Solo | CLMM | [Report](https://github.com/0xSimao/audits/blob/main/2025-05-12-yieldoor.pdf) |
 | 09 May 2025 | Kyo Finance | Sherlock | AMM | - |
 | 25 Apr 2025 | Beraborrow I | Sherlock | Lending | [Report](https://1570492309-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FffzDCMBDa391vIMqruBP%2Fuploads%2FUKDtjc6Dkn6P6i35j5H1%2FManaged%20Leverage%20Vaults%20v0%20private%20audit%20Sherlock.pdf?alt=media&token=c7304efa-8040-4ed0-9a98-dc949af28a85) |
 | 22 Apr 2025 | Aegis | Sherlock | Stablecoin | - |
 | 14 Apr 2025 | 1Inch | Sherlock | AMM | [Report](https://github.com/1inch/1inch-audits/blob/master/Fees%20for%20LO%20and%20Fusion%20V1/Fee%20flow%20v1-Sherlock.pdf) |
 | 28 Mar 2025 | Gaib | Sherlock | AI Agent | [Report](https://4221781861-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces/LXNTW9blcTeiKZrMFhab/uploads/QMsETA4dRNo2auiUSeOX/AIDa%20Vault%20Audit_20250411.pdf?alt=media&token=5e2f84ea-9698-4fa7-81ef-503771d234aa) |
-| 14 Mar 2025 | Felix | Solo | Stablecoin | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-03-14-felix.pdf) |
+| 14 Mar 2025 | Felix | Solo | Stablecoin | [Report](https://github.com/0xSimao/audits/blob/main/2025-03-14-felix.pdf) |
 | 03 Feb 2025 | Nerite | Sherlock | Stablecoin | [Report](https://drive.google.com/file/d/1knlIgoEGv5x33n9mhTLRqJe8T55r3HCy/view) |
 | 09 Dec 2024 | Pengu Aidrop | Three Sigma | Airdrop | [Report](https://threesigma.xyz/case-studies/airdrop/pengu) |
 | 02 Dec 2024 | More Markets | Three Sigma | Lending | [Report](https://threesigma.xyz/case-studies/yield-farming/more-markets) |
