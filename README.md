@@ -16,7 +16,7 @@ I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **2
 
 # Private Audits
 
-| Date | Project | Type | Category | Report |
+| Date | Project | Organization | Category | Report |
 |------|---------|------|----------|--------|
 | 02 Dec 2025 | Usual III | Sherlock | Stablecoin | - |
 | 28 Nov 2025 | Spirit Protocol | Solo | AI Agent | [Report](https://github.com/0xSimao/audits/blob/main/2025-11-28-spirit-protocol.pdf) |
