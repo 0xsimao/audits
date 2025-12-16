@@ -9,8 +9,6 @@ I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **2
 - Former Head of Security at [Three Sigma](https://threesigma.xyz/), where I led 30+ audits.
 - Hold a Master's in Aerospace Engineering, bringing advanced analytical skills to complex Web3 security audits.
 
-**Private Engagements:** 60+ audits completed.
-
 [Request an Audit](https://t.me/OxSimao)
 
 ---
