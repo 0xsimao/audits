@@ -48,7 +48,7 @@ I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **2
 | 02 Dec 2024 | More Markets | Three Sigma | Lending | [Report](https://threesigma.xyz/case-studies/yield-farming/more-markets) |
 | 26 Nov 2024 | Maple Finance IV | Three Sigma | Lending | [Report](https://cdn.sanity.io/files/qoqld077/staging/a68d604be9eca467b1f656c2ca775e1cebc2a468.pdf) |
 | 11 Nov 2024 | Ojo Network | Three Sigma | Oracle | [Report](https://threesigma.xyz/case-studies/oracle/ojo-network-smart-contract-audit-2) |
-| 25 Oct 2024 | Zoo.fun | Three Sigma | Launchpad | [Report](https://threesigma.xyz/case-studies/yield-farming/more-markets) |
+| 25 Oct 2024 | Zoo.fun | Three Sigma | Launchpad | [Report](https://threesigma.xyz/case-studies/launchpad/zoo.fun) |
 | 23 Oct 2024 | Codeup | Three Sigma | Gaming | [Report](https://cdn.sanity.io/files/qoqld077/staging/d9e57830a75b5165fd56e8b88037de7986a165ec.pdf) |
 | 16 Oct 2024 | Ojo Network | Three Sigma | Oracle | [Report](https://cdn.sanity.io/files/qoqld077/staging/cd0627ebc0c012c250e35983143b0a3cdba00cad.pdf) |
 | 08 Aug 2024 | Blast IDO Pools | Three Sigma | Gaming | [Report](https://cdn.sanity.io/files/qoqld077/production/d2a7ca81740e715b604122c12dafbce599e43f2f.pdf) |
