@@ -30,12 +30,12 @@ I am 0xSimao, an Expert Security Researcher with 28 Top-3 finishes and 60+ priva
 | 08 Sep 2025 | Maple Finance IV | Sherlock | Maple is an onchain Asset Manager with decades of traditional finance and crypto experience. | [Report](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-sept-governor-timelock/Sherlock-Maple-Finance-timelock-Sept-2025.pdf) |
 | 01 Sep 2025 | Honeypop Staking | Sherlock | Unlock the full potential of customer loyalty. Our platform makes it easy to engage your customers, boost repeat sales, and grow your community. | - |
 | 13 Aug 2025 | Morpho Vault V2 | Blackthorn | Earn yield by depositing an asset into a vault curated by third-party risk experts. | [Report](https://github.com/morpho-org/vault-v2/blob/main/audits/2025-09-15-blackthorn.pdf) |
+| 03 Jul 2025 | Usual I | Sherlock | USD0++ Flat-Price Early-Unlock Upgrade. | [Report](https://1503334455-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpUhQzPJGdJzuLTQ5sCym%2Fuploads%2F8gq6et5OGqJHJGphqav6%2FSherlock-%20Audit%20report%20on%20USD0%2B%2B%20upgrade%20(Burn%20Redemption%20Mechanism).pdf?alt=media&token=27674355-9c34-496e-970d-723f522221fa) |
 | 23 Jun 2025 | Yieldoor III | Solo | The Platform for Leveraged Yield Farming. | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-06-23-yieldoor.pdf) |
 | 20 Jun 2025 | Yieldoor II | Solo | The Platform for Leveraged Yield Farming. | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-06-20-yieldoor.pdf) |
 | 17 Jun 2025 | Arrakis | Sherlock | Arrakis Finance is a market making protocol for token issuers. | - |
 | 09 Jun 2025 | Chronicle | Sherlock | Oracles you don't need to trust. | - |
 | 05 Jun 2025 | Maple Finance III | Sherlock | Maple is an onchain Asset Manager with decades of traditional finance and crypto experience. | - |
-| 03 Jul 2025 | Usual I | Sherlock | USD0++ Flat-Price Early-Unlock Upgrade. | [Report](https://1503334455-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpUhQzPJGdJzuLTQ5sCym%2Fuploads%2F8gq6et5OGqJHJGphqav6%2FSherlock-%20Audit%20report%20on%20USD0%2B%2B%20upgrade%20(Burn%20Redemption%20Mechanism).pdf?alt=media&token=27674355-9c34-496e-970d-723f522221fa) |
 | 03 Jun 2025 | Beraborrow II | Sherlock | Instant Liquidity, Infinite Opportunities. | - |
 | 22 May 2025 | Pond GNN | Sherlock | A new frontier in web3 investment powered by Pond's crypto foundation model. | - |
 | 12 May 2025 | Yieldoor I | Solo | The Platform for Leveraged Yield Farming. | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-05-12-yieldoor.pdf) |
