@@ -44,7 +44,6 @@ I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **2
 | 14 Mar 2025 | Felix | Solo | Stablecoin | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-03-14-felix.pdf) |
 | 03 Feb 2025 | Nerite | Sherlock | Stablecoin | [Report](https://drive.google.com/file/d/1knlIgoEGv5x33n9mhTLRqJe8T55r3HCy/view) |
 | 09 Dec 2024 | Pengu Aidrop | Three Sigma | Airdrop | [Report](https://threesigma.xyz/case-studies/airdrop/pengu) |
-| 06 Dec 2024 | Ojo Network | Three Sigma | Oracle | [Report](https://threesigma.xyz/case-studies/oracle/ojo-network-smart-contract-audit-2) |
 | 02 Dec 2024 | More Markets | Three Sigma | Lending | [Report](https://threesigma.xyz/case-studies/yield-farming/more-markets) |
 | 26 Nov 2024 | Maple Finance IV | Three Sigma | Lending | [Report](https://cdn.sanity.io/files/qoqld077/staging/a68d604be9eca467b1f656c2ca775e1cebc2a468.pdf) |
 | 11 Nov 2024 | Ojo Network | Three Sigma | Oracle | [Report](https://threesigma.xyz/case-studies/oracle/ojo-network-smart-contract-audit-2) |
