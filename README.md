@@ -1,16 +1,12 @@
 # Introduction
 
-I am 0xSimao, an Expert Security Researcher with 28 Top-3 finishes and 60+ private audits.
+I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with 28 Top-3 finishes and 60+ private audits.
 
-- Proven track record in public smart contract audit competitions, with $600K+ in prizes won.
+- Proven track record in public smart contract audit competitions, with [$600K+](https://audits.sherlock.xyz/watson/0x73696d616f) in prizes won.
 - Led over 60 private audits across most blockchain domains, including many leading projects.
-- 2nd Place on Sherlock, with an Elo rating in the top 0.02% (out of 9904+ registered accounts).
-- Founding Member of Blackthorn, a top-tier auditing firm with 11 renowned professionals in Web3 security.
-- Former Head of Security at Three Sigma, where I led 30+ audits.
-- Top-Ranked on Code4rena (Top 3 over the past 90 days) and Cantina (Top-3 in 3 competitions).
-- Achieved 6 consecutive 1st places on Sherlock in competitions with hundreds of participants.
-- Consistently deliver exceptional coverage, often identifying the highest number of issues — including uncovering all vulnerabilities in multiple contests.
-- Frequently find solo unique vulnerabilities unnoticed by others, even in contests with 600+ participants.
+- [2nd Place](https://audits.sherlock.xyz/leaderboards) on Sherlock, with an Elo rating in the top 0.02% (out of 9904+ registered accounts).
+- Founding Member of [Blackthorn](https://www.blackthorn.xyz/team), a top-tier auditing firm with 11 renowned professionals in Web3 security.
+- Former Head of Security at [Three Sigma](https://threesigma.xyz/), where I led 30+ audits.
 - Hold a Master's in Aerospace Engineering, bringing advanced analytical skills to complex Web3 security audits.
 
 **Private Engagements:** 60+ audits completed.
