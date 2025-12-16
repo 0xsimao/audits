@@ -17,9 +17,9 @@ I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **2
 
 | Date | Project | Type | Category | Report |
 |------|---------|------|----------|--------|
-| 02 Dec 2025 | Usual I | Sherlock | Stablecoin | - |
+| 02 Dec 2025 | Usual III | Sherlock | Stablecoin | - |
 | 28 Nov 2025 | Spirit Protocol | Solo | AI Agent | [Report](https://github.com/0xSimao/audits/blob/main/2025-11-28-spirit-protocol.pdf) |
-| 11 Nov 2025 | Usual - II | Sherlock | Stablecoin | - |
+| 11 Nov 2025 | Usual II | Sherlock | Stablecoin | - |
 | 22 Oct 2025 | Maple Finance VII | Sherlock | Lending | [Report](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-november/Sherlock-Maple-Finance-WM-Nov-2025.pdf) |
 | 15 Sep 2025 | Timeswap v3 | Sherlock | Lending | - |
 | 08 Sep 2025 | Maple Finance VI | Sherlock | Lending | [Report](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-sept-governor-timelock/Sherlock-Maple-Finance-timelock-Sept-2025.pdf) |
