@@ -15,88 +15,89 @@ I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **2
 
 ---
 
-# Audits
+# Private Audits
 
-| Date | Project | Type | Description | Report |
-|------|---------|------|-------------|--------|
-| 28 Nov 2025 | Spirit Protocol | Solo | AI agents earn money. Spirit splits it automatically — onchain, transparently. Creators keep 50%. The other 50% funds training and distribution. | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-11-28-spirit-protocol.pdf) |
-| 11 Nov 2025 | Usual - II | Sherlock | USD0++ Flat-Price Early-Unlock Upgrade. | - |
-| 22 Oct 2025 | Maple Finance V | Sherlock | Timeswap enables the creation of money markets for ANY ERC-20 tokens. Coming soon! Timeswap V3 will be the end game for capturing time value of any asset. | [Report](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-november/Sherlock-Maple-Finance-WM-Nov-2025.pdf) |
-| 15 Sep 2025 | Timeswap v3 | Sherlock | Timeswap enables the creation of money markets for ANY ERC-20 tokens. Coming soon! Timeswap V3 will be the end game for capturing time value of any asset. | - |
-| 08 Sep 2025 | Maple Finance IV | Sherlock | Maple is an onchain Asset Manager with decades of traditional finance and crypto experience. | [Report](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-sept-governor-timelock/Sherlock-Maple-Finance-timelock-Sept-2025.pdf) |
-| 01 Sep 2025 | Honeypop Staking | Sherlock | Unlock the full potential of customer loyalty. Our platform makes it easy to engage your customers, boost repeat sales, and grow your community. | - |
-| 13 Aug 2025 | Morpho Vault V2 | Blackthorn | Earn yield by depositing an asset into a vault curated by third-party risk experts. | [Report](https://github.com/morpho-org/vault-v2/blob/main/audits/2025-09-15-blackthorn.pdf) |
-| 03 Jul 2025 | Usual I | Sherlock | USD0++ Flat-Price Early-Unlock Upgrade. | [Report](https://1503334455-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpUhQzPJGdJzuLTQ5sCym%2Fuploads%2F8gq6et5OGqJHJGphqav6%2FSherlock-%20Audit%20report%20on%20USD0%2B%2B%20upgrade%20(Burn%20Redemption%20Mechanism).pdf?alt=media&token=27674355-9c34-496e-970d-723f522221fa) |
-| 23 Jun 2025 | Yieldoor III | Solo | The Platform for Leveraged Yield Farming. | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-06-23-yieldoor.pdf) |
-| 20 Jun 2025 | Yieldoor II | Solo | The Platform for Leveraged Yield Farming. | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-06-20-yieldoor.pdf) |
-| 17 Jun 2025 | Arrakis | Sherlock | Arrakis Finance is a market making protocol for token issuers. | - |
-| 09 Jun 2025 | Chronicle | Sherlock | Oracles you don't need to trust. | - |
-| 05 Jun 2025 | Maple Finance III | Sherlock | Maple is an onchain Asset Manager with decades of traditional finance and crypto experience. | - |
-| 03 Jun 2025 | Beraborrow II | Sherlock | Instant Liquidity, Infinite Opportunities. | - |
-| 22 May 2025 | Pond GNN | Sherlock | A new frontier in web3 investment powered by Pond's crypto foundation model. | - |
-| 12 May 2025 | Yieldoor I | Solo | The Platform for Leveraged Yield Farming. | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-05-12-yieldoor.pdf) |
-| 09 May 2025 | Kyo Finance | Sherlock | The Most Innovative Liquidity Hub on SONEIUM. Seamless Vote-Escrow and User-Friendly Experience. | - |
-| 25 Apr 2025 | Beraborrow I | Sherlock | Instant Liquidity, Infinite Opportunities. | [Report](https://1570492309-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FffzDCMBDa391vIMqruBP%2Fuploads%2FUKDtjc6Dkn6P6i35j5H1%2FManaged%20Leverage%20Vaults%20v0%20private%20audit%20Sherlock.pdf?alt=media&token=c7304efa-8040-4ed0-9a98-dc949af28a85) |
-| 22 Apr 2025 | Aegis | Sherlock | Bitcoin-backed stablecoin with real-time transparency, built-in yield generation, and complete independence from the fiat banking system. | - |
-| 14 Apr 2025 | 1Inch | Sherlock | One-stop access to decentralized finance. | [Report](https://github.com/1inch/1inch-audits/blob/master/Fees%20for%20LO%20and%20Fusion%20V1/Fee%20flow%20v1-Sherlock.pdf) |
-| 28 Mar 2025 | Gaib | Sherlock | The First Economic Layer for AI & Compute Future. | [Report](https://4221781861-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces/LXNTW9blcTeiKZrMFhab/uploads/QMsETA4dRNo2auiUSeOX/AIDa%20Vault%20Audit_20250411.pdf?alt=media&token=5e2f84ea-9698-4fa7-81ef-503771d234aa) |
-| 14 Mar 2025 | Felix | Solo | The People's Stablecoin. Borrow against blue-chip collateral and earn native yield with the Felix stablecoin, feUSD. | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-03-14-felix.pdf) |
-| 03 Feb 2025 | Nerite | Sherlock | The Nerite Protocol is governance minimized, so the rules stay the same and there are more security guarantees. | [Report](https://drive.google.com/file/d/1knlIgoEGv5x33n9mhTLRqJe8T55r3HCy/view) |
-| 07 Aug 2024 | Blast IDO Pools | Three Sigma | Blast Off IDO Pools allow the purchase of IDO tokens based on a multiplier in specific rounds. The higher the multiplier, the more tokens can be purchased. | [Report](https://cdn.sanity.io/files/qoqld077/production/d2a7ca81740e715b604122c12dafbce599e43f2f.pdf) |
-| 15 Jul 2024 | Orange | Three Sigma | Orange Bridge is a cross-chain bridge that enables interoperability across the Bitcoin ecosystem and other blockchain networks. It effortlessly bridges tokens back and forth between the Bitcoin BRC20 and Ethereum ERC20 protocols. | [Report](https://cdn.sanity.io/files/qoqld077/production/686ad4e1d5035d69002f5f97e281e3c5a8b7ce00.pdf) |
-| 10 Jul 2024 | Keyring II | Three Sigma | Keyring is a Zero-Knowledge compliance solution for maximum liquidity and composability. | [Report](https://cdn.sanity.io/files/qoqld077/production/75b68b74f4b0dc6fbcd94892d934547d8259b57a.pdf) |
-| 06 Jul 2024 | Layer3 | Three Sigma | The Layer3 token is a governance and utility token that will power the future of the Layer3 ecosystem. | [Report](https://cdn.sanity.io/files/qoqld077/production/e8fbb07b1854347b8d87929e76703b00c28fd2c7.pdf) |
-| 25 Jun 2024 | Mitosis | Three Sigma | Mitosis is an Ecosystem-Owned Liquidity layer 1 blockchain that optimizes multi-chain liquidity provision by allowing LPs to deposit assets for miAssets, participate in governance to allocate liquidity across networks and protocols, and aims to empower retail LPs. | [Report](https://cdn.sanity.io/files/qoqld077/production/b6b3bd7bb47407d99e76abb7c6dc615c1db5018e.pdf) |
-| 19 Jun 2024 | BendDAO | Code4rena | Composable lending and leverage that allows anyone to borrow in an overcollateralized fashion, leverage savings on MakerDAO, leverage stake on Lido, leverage restake with EigenLayer derivatives. Lending and leverage in the same protocol. (Invitational audit, finished 2nd place) | [Report](https://code4rena.com/audits/2024-07-benddao-invitational) |
-| 13 Jun 2024 | DistrictOne | Three Sigma | DistrictOne (D1) merges the excitement of money games with social interaction on Blast L2. It features five engaging activities: Linkup for reward earning and networking, Space Sprint for competitive visibility and earnings. | [Report](https://cdn.sanity.io/files/qoqld077/production/fd2142f1d189dd29db23dff49d4018d4da9c01d6.pdf) |
-| 10 Apr 2024 | Maple Finance II | Three Sigma | Maple Finance is an institutional crypto-capital network, which provides the infrastructure for credit experts to efficiently manage and scale crypto lending businesses and connect capital from institutional and individual lenders to innovative, blue-chip companies. | [Report](https://cdn.sanity.io/files/qoqld077/production/36dbe5ca76da3d2392bcee581548067705b8bd36.pdf) |
-| 06 Apr 2024 | Metazero II | Three Sigma | MetaZero is a Synthetic Liquidity Layer Protocol for Omnichain Tokenization of Gaming Real World Assets (RWAs), powered by LayerZero. MetaZero StakingContract allows staking MetaZero tokens for rewards. | [Report](https://cdn.sanity.io/files/qoqld077/production/3e07b0c2806b62578b8031e88c59bc5dbd38de1b.pdf) |
-| 03 Apr 2024 | Vertex | Three Sigma | Vertex is a next-generation decentralized exchange (DEX) that seamlessly combines the speed and precision of centralized trading platforms with the security and transparency of on-chain settlement. | - |
-| 22 Mar 2024 | Keyring I | Three Sigma | Keyring is a Zero-Knowledge compliance solution for maximum liquidity and composability. | - |
-| 15 Mar 2024 | Clip Finance II | Three Sigma | Clip Finance provides token projects, DEXes, and protocols with building blocks that reduce development costs and enhance user experience. | - |
-| 26 Feb 2024 | Singularity | Three Sigma | Singularity is the institutional-grade DeFi access layer that allows you to transact on-chain with commercial confidentiality. | [Report](https://cdn.sanity.io/files/qoqld077/production/45b8aac56a2b8e3b557df4329ac9bf8220b64012.pdf) |
-| 19 Feb 2024 | Ostium | Three Sigma | Ostium is the first decentralized perpetuals exchange purpose-engineered for Real World Assets. A stablecoin-sealed trading engine, dynamic fee structure, and proprietary in-house oracle enables leveraged, synthetic trading on a wide range of traditional market assets. | [Report](https://cdn.sanity.io/files/qoqld077/production/a95b9c69e0f65d1d6b0e649f0d62a362358ca8ce.pdf) |
-| 29 Jan 2024 | NFTPerp II | Three Sigma | NFTPerp is an open-source DeFi platform enabling users to trade NFTs with perpetual futures. | - |
-| 27 Jan 2024 | Metazero I | Three Sigma | MetaZero is a Synthetic Liquidity Layer Protocol for Omnichain Tokenization of Gaming Real World Assets (RWAs), powered by LayerZero. MetaZero StakingContract allows staking MetaZero tokens for rewards. | [Report](https://cdn.sanity.io/files/qoqld077/production/1b1ab4ff365756fe1d86767f1e06744407570f5a.pdf) |
-| 27 Jan 2024 | Trestle | Three Sigma | Trestle's mission is to connect the power of Celestia's modular blockchain network with the decentralized protocols and user base of Ethereum. Trestle not only serves as a seamless bridge between the two chains, but also brings Wrapped Tia (wTIA) to Ethereum. | [Report](https://cdn.sanity.io/files/qoqld077/production/1b1ab4ff365756fe1d86767f1e06744407570f5a.pdf) |
-| 26 Jan 2024 | INIT Capital II | Code4rena | INIT Capital is a composable liquidity hook money market that allows any DeFi protocols to permissionlessly build liquidity hook plugins and borrow liquidity to execute various DeFi strategies. | [Report](https://code4rena.com/reports/2024-01-init-capital-invitational) |
-| 08 Jan 2024 | M^0 | Three Sigma | A neutral value transmission framework able to permissionlessly mint currencies under decentralized governance. The purpose of $M is to become a superior building block for value representation. | [Report](https://cdn.sanity.io/files/qoqld077/production/1cdafafad874aba76e062ad8c216c98338c096db.pdf) |
-| 02 Jan 2024 | NFTPerp I | Three Sigma | NFTPerp is an open-source DeFi platform enabling users to trade on the price of NFT collections like Milady and Pudgy Penguins using perpetual futures contracts, with all transactions in ETH. | [Report](https://cdn.sanity.io/files/qoqld077/production/c19530de75e234ad15694b4563edb1fc9d2a3fd8.pdf) |
-| 15 Dec 2023 | INIT Capital I | Code4rena | INIT Capital is a composable liquidity hook money market that allows any DeFi protocols to permissionlessly build liquidity hook plugins and borrow liquidity to execute various DeFi strategies from simple to complex strategies. | [Report](https://code4rena.com/reports/2023-12-initcapital) |
-| 16 Nov 2023 | Maple Finance I | Three Sigma | Maple Finance is an institutional crypto-capital network, which provides the infrastructure for credit experts to efficiently manage and scale crypto lending businesses and connect capital from institutional and individual lenders to innovative, blue-chip companies. | [Report](https://cdn.sanity.io/files/qoqld077/production/34f2311ad7e8315d043e23054e794c136f19a079.pdf) |
-| 10 Nov 2023 | Clip Finance I | Three Sigma | Clip Finance provides token projects, DEXes, and protocols with building blocks that reduce development costs and enhance user experience. | [Report](https://cdn.sanity.io/files/qoqld077/production/c23d04c8223879d2443221caf3ccb55ac118441a.pdf) |
-| 12 Jul 2023 | Glacier | Three Sigma | Glacier is a fully automated & truly liquid staking protocol, offering up to 911% APY on users' staked AVAX. | [Report](https://cdn.sanity.io/files/qoqld077/production/21bd3b6fa78c55968a6c9c7ea4fd49f34a8bd3d8.pdf) |
-| 06 May 2023 | Fuji Finance | Code4rena | Fuji is a protocol that aggregates money markets in the decentralized finance (DeFi) space. In the background, Fuji routes users' loan requests to the liquidity sources with the best rates and refinances the open positions. It relies on external secure bridges (such as Connext) to enable unlimited cross-chain composability. | - |
+| Date | Project | Type | Category | Report |
+|------|---------|------|----------|--------|
+| 28 Nov 2025 | Spirit Protocol | Solo | AI Agent | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-11-28-spirit-protocol.pdf) |
+| 11 Nov 2025 | Usual - II | Sherlock | Stablecoin | - |
+| 22 Oct 2025 | Maple Finance V | Sherlock | Lending | [Report](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-november/Sherlock-Maple-Finance-WM-Nov-2025.pdf) |
+| 15 Sep 2025 | Timeswap v3 | Sherlock | Lending | - |
+| 08 Sep 2025 | Maple Finance IV | Sherlock | Lending | [Report](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-sept-governor-timelock/Sherlock-Maple-Finance-timelock-Sept-2025.pdf) |
+| 01 Sep 2025 | Honeypop Staking | Sherlock | Staking | - |
+| 13 Aug 2025 | Morpho Vault V2 | Blackthorn | Lending | [Report](https://github.com/morpho-org/vault-v2/blob/main/audits/2025-09-15-blackthorn.pdf) |
+| 03 Jul 2025 | Usual I | Sherlock | Stablecoin | [Report](https://1503334455-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpUhQzPJGdJzuLTQ5sCym%2Fuploads%2F8gq6et5OGqJHJGphqav6%2FSherlock-%20Audit%20report%20on%20USD0%2B%2B%20upgrade%20(Burn%20Redemption%20Mechanism).pdf?alt=media&token=27674355-9c34-496e-970d-723f522221fa) |
+| 23 Jun 2025 | Yieldoor III | Solo | CLMM | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-06-23-yieldoor.pdf) |
+| 20 Jun 2025 | Yieldoor II | Solo | CLMM | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-06-20-yieldoor.pdf) |
+| 17 Jun 2025 | Arrakis | Sherlock | AMM | - |
+| 09 Jun 2025 | Chronicle | Sherlock | Oracle | - |
+| 05 Jun 2025 | Maple Finance III | Sherlock | Lending | - |
+| 03 Jun 2025 | Beraborrow II | Sherlock | Lending | - |
+| 22 May 2025 | Pond GNN | Sherlock | AI Agent | - |
+| 12 May 2025 | Yieldoor I | Solo | CLMM | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-05-12-yieldoor.pdf) |
+| 09 May 2025 | Kyo Finance | Sherlock | AMM | - |
+| 25 Apr 2025 | Beraborrow I | Sherlock | Lending | [Report](https://1570492309-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FffzDCMBDa391vIMqruBP%2Fuploads%2FUKDtjc6Dkn6P6i35j5H1%2FManaged%20Leverage%20Vaults%20v0%20private%20audit%20Sherlock.pdf?alt=media&token=c7304efa-8040-4ed0-9a98-dc949af28a85) |
+| 22 Apr 2025 | Aegis | Sherlock | Stablecoin | - |
+| 14 Apr 2025 | 1Inch | Sherlock | AMM | [Report](https://github.com/1inch/1inch-audits/blob/master/Fees%20for%20LO%20and%20Fusion%20V1/Fee%20flow%20v1-Sherlock.pdf) |
+| 28 Mar 2025 | Gaib | Sherlock | AI Agent | [Report](https://4221781861-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces/LXNTW9blcTeiKZrMFhab/uploads/QMsETA4dRNo2auiUSeOX/AIDa%20Vault%20Audit_20250411.pdf?alt=media&token=5e2f84ea-9698-4fa7-81ef-503771d234aa) |
+| 14 Mar 2025 | Felix | Solo | Stablecoin | [Report](https://github.com/0xSimao-audits/reports/blob/main/2025-03-14-felix.pdf) |
+| 03 Feb 2025 | Nerite | Sherlock | Stablecoin | [Report](https://drive.google.com/file/d/1knlIgoEGv5x33n9mhTLRqJe8T55r3HCy/view) |
+| 07 Aug 2024 | Blast IDO Pools | Three Sigma | Gaming | [Report](https://cdn.sanity.io/files/qoqld077/production/d2a7ca81740e715b604122c12dafbce599e43f2f.pdf) |
+| 15 Jul 2024 | Orange | Three Sigma | Bridge | [Report](https://cdn.sanity.io/files/qoqld077/production/686ad4e1d5035d69002f5f97e281e3c5a8b7ce00.pdf) |
+| 10 Jul 2024 | Keyring II | Three Sigma | Privacy | [Report](https://cdn.sanity.io/files/qoqld077/production/75b68b74f4b0dc6fbcd94892d934547d8259b57a.pdf) |
+| 06 Jul 2024 | Layer3 | Three Sigma | Governance | [Report](https://cdn.sanity.io/files/qoqld077/production/e8fbb07b1854347b8d87929e76703b00c28fd2c7.pdf) |
+| 25 Jun 2024 | Mitosis | Three Sigma | L1 | [Report](https://cdn.sanity.io/files/qoqld077/production/b6b3bd7bb47407d99e76abb7c6dc615c1db5018e.pdf) |
+| 19 Jun 2024 | BendDAO | Code4rena | Lending | [Report](https://code4rena.com/audits/2024-07-benddao-invitational) |
+| 13 Jun 2024 | DistrictOne | Three Sigma | Gaming | [Report](https://cdn.sanity.io/files/qoqld077/production/fd2142f1d189dd29db23dff49d4018d4da9c01d6.pdf) |
+| 10 Apr 2024 | Maple Finance II | Three Sigma | Lending | [Report](https://cdn.sanity.io/files/qoqld077/production/36dbe5ca76da3d2392bcee581548067705b8bd36.pdf) |
+| 06 Apr 2024 | Metazero II | Three Sigma | Staking | [Report](https://cdn.sanity.io/files/qoqld077/production/3e07b0c2806b62578b8031e88c59bc5dbd38de1b.pdf) |
+| 03 Apr 2024 | Vertex | Three Sigma | AMM | - |
+| 22 Mar 2024 | Keyring I | Three Sigma | Privacy | - |
+| 15 Mar 2024 | Clip Finance II | Three Sigma | CLMM | - |
+| 26 Feb 2024 | Singularity | Three Sigma | ZK | [Report](https://cdn.sanity.io/files/qoqld077/production/45b8aac56a2b8e3b557df4329ac9bf8220b64012.pdf) |
+| 19 Feb 2024 | Ostium | Three Sigma | Derivatives | [Report](https://cdn.sanity.io/files/qoqld077/production/a95b9c69e0f65d1d6b0e649f0d62a362358ca8ce.pdf) |
+| 29 Jan 2024 | NFTPerp II | Three Sigma | Derivatives | - |
+| 27 Jan 2024 | Metazero I | Three Sigma | Staking | [Report](https://cdn.sanity.io/files/qoqld077/production/1b1ab4ff365756fe1d86767f1e06744407570f5a.pdf) |
+| 27 Jan 2024 | Trestle | Three Sigma | Bridge | [Report](https://cdn.sanity.io/files/qoqld077/production/1b1ab4ff365756fe1d86767f1e06744407570f5a.pdf) |
+| 26 Jan 2024 | INIT Capital II | Code4rena | Lending | [Report](https://code4rena.com/reports/2024-01-init-capital-invitational) |
+| 08 Jan 2024 | M^0 | Three Sigma | Stablecoin | [Report](https://cdn.sanity.io/files/qoqld077/production/1cdafafad874aba76e062ad8c216c98338c096db.pdf) |
+| 02 Jan 2024 | NFTPerp I | Three Sigma | Derivatives | [Report](https://cdn.sanity.io/files/qoqld077/production/c19530de75e234ad15694b4563edb1fc9d2a3fd8.pdf) |
+| 15 Dec 2023 | INIT Capital I | Code4rena | Lending | [Report](https://code4rena.com/reports/2023-12-initcapital) |
+| 16 Nov 2023 | Maple Finance I | Three Sigma | Lending | [Report](https://cdn.sanity.io/files/qoqld077/production/34f2311ad7e8315d043e23054e794c136f19a079.pdf) |
+| 10 Nov 2023 | Clip Finance I | Three Sigma | CLMM | [Report](https://cdn.sanity.io/files/qoqld077/production/c23d04c8223879d2443221caf3ccb55ac118441a.pdf) |
+| 12 Jul 2023 | Glacier | Three Sigma | Staking | [Report](https://cdn.sanity.io/files/qoqld077/production/21bd3b6fa78c55968a6c9c7ea4fd49f34a8bd3d8.pdf) |
+| 06 May 2023 | Fuji Finance | Code4rena | Lending | - |
+
 
 # Public Competitions
 
-| Date | Protocol | Description | Result |
+| Date | Protocol | Type | Result |
 |---|--------------|----------------------------|-------------|
-| 02 Sep 2025 | BMX | Deli Swap is a DEX built using Uniswap v4 hooks that exemplifies the ecosystem's unique design, allowing liquidity providers to earn from two sources simultaneously: swap fees and the underlying yield generated by their wBLT in pools. This contest is for the Deli Swap contracts. | [🥇1st](https://audits.sherlock.xyz/contests/1154) |
-| 19 Jun 2025 | Symbiotic Relay | Symbiotic Core provides a modular onchain framework for creating flexible staking solutions, including collateral choice (native tokens, restaked assets, or multi-asset), as well as reward, slashing and redistribution logic. | [🥇1st](https://audits.sherlock.xyz/contests/62?filter=results) |
-| 04 Jun 2025 | Superfluid Locker System | Superfluid is the money streaming protocol, powering a real-time onchain economy. Start earning every second with streaming airdrops, rewards and yield. This contest focuses on a locker system built on top of Superfluid, which is a system showcasing programmable reward distribution. | [🥇1st](https://audits.sherlock.xyz/contests/968) |
-| 21 May 2025 | Extrafi XLend | Extrafi XLend is a smart lending protocol offering multi-accounts and advanced lending/borrowing strategies. This contest focuses on user asset safety, oracle safety and smart account management. | [🥇1st](https://audits.sherlock.xyz/contests/826) |
-| 14 Apr 2025 | Zetachain | ZetaChain is a layer one EVM compatible chain with a native interopability solution built in. Allowing developers to build Universal Dapps that interact with all chains. | [🥉3rd](https://audits.sherlock.xyz/contests/857) |
-| 11 Mar 2025 | Crestal Network | Crestal Network is building a platform for anyone to create a productive AI agent with The Nation, an ecosystem where agents autonomously generate revenue, manage wallets, launch tokens, and access powerful skills to create value both on-chain and off-chain. | [🥇1st](https://audits.sherlock.xyz/contests/755) |
-| 07 Mar 2025 | Symmio, Staking and Vesting | Symmio is a permissionless OTC derivatives protocol and clearing layer. This contest focuses on peripheral contracts for our governance token. | [🥇1st](https://audits.sherlock.xyz/contests/838) |
-| 24 Feb 2025 | Yieldoor | The Platform for Leveraged Yield Farming. | [🥇1st](https://audits.sherlock.xyz/contests/62?filter=results) |
-| 13 Jan 2025 | Beraborrow | Beraborrow unlocks instant liquidity against Berachain assets through the first PoL powered stablecoin, Nectar ($NECT). Built with simplicity and flexibility at its core, Beraborrow is designed to maximise opportunities for users without forcing them to sacrifice yield. | [🥈2nd](https://audits.sherlock.xyz/contests/550?filter=results) |
-| 04 Dec 2024 | Autonomint | A delta-neutral stablecoin, fully backed by crypto assets and offered at 100% synthetic LTV, with risks hedged through decentralized credit default swaps (dCDS). | [🥇1st](https://audits.sherlock.xyz/contests/569?filter=results) |
-| 20 Nov 2024 | Superfluid Locker System | Superfluid is the money streaming protocol, powering a real-time onchain economy. Start earning every second with streaming airdrops, rewards and yield. | [🥇1st](https://audits.sherlock.xyz/contests/648) |
-| 15 Nov 2024 | Chiliz Chain System Contracts | Chiliz Chain is the world's leading sports-focused blockchain, with an ecosystem embraced by 70+ elite sports teams. An EVM compatible POSA layer 1 blockchain based on a fork of BSC chain. | [🥇1st](https://audits.sherlock.xyz/contests/550?filter=results) |
-| 06 Nov 2024 | Telcoin Update #2 | Telcoin leverages blockchain technology to provide access to low-cost, high-quality decentralized financial products for every mobile phone user in the world. | [🥇1st](https://audits.sherlock.xyz/contests/643?filter=questions) |
-| 24 Oct 2024 | Mento | This upgrade adds a GoodDollar-specific exchange provider that implements the Bancor formula and allows GoodDollar expansions from reserve rewards. | [🥇1st](https://audits.sherlock.xyz/contests/598?filter=results) |
-| 01 Oct 2024 | Primev | Mev-commit is a peer-to-peer networking platform designed to facilitate real-time interactions and coordination between mev actors and execution providers. | [🥉3rd](https://cantina.xyz/competitions/4ee8716d-3e0e-4f59-b90d-aa56bf3b484c) |
-| 24 Sep 2024 | RedStone | RedStone is a blockchain Oracle protocol, which proposes a completely new modular design, where data is first put into a data availability layer and then fetched on-chain. | [🥈2nd](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd) |
-| 16 Sep 2024 | Saffron Lido Vaults | Saffron is a DeFi primitive that turns a single source of yield into variable and fixed interest. The Saffron LIDO Vault makes native ETH staking into a fixed interest instrument. | [🥇1st](https://audits.sherlock.xyz/contests/509?filter=results) |
-| 29 Aug 2024 | Cork Protocol | Cork is building a protocol to price, hedge and trade risk. In this contest our core contracts will be audited in advance of our mainnet launch. | [🥇1st](https://audits.sherlock.xyz/contests/506) |
-| 26 Aug 2024 | Rumpel Point Tokenization Protocol | Rumpel enables points earned via any incentive or loyalty scheme – from Ethena, Zircuit, Symbiotic, etc – to be tokenized, traded, and used in DeFi without lockups or derivatives. | [🥇1st](https://audits.sherlock.xyz/contests/494?filter=results) |
-| 16 Aug 2024 | Winnables Raffles | Winnables is a cutting-edge decentralized raffle platform (transparent and fair) that offers exciting prizes, including NFTs and crypto, all on the Ethereum network. | [🥉3rd](https://audits.sherlock.xyz/contests/516?filter=results) |
-| 22 Jul 2024 | Exactly Protocol Update - Staking Contract | The new Exactly staking program will enable EXA token holders to earn dividends and gain additional voting power by staking their EXA tokens. | [🥇1st](https://audits.sherlock.xyz/contests/396) |
-| 16 May 2024 | PoolTogether: The Prize Layer for DeFi | PoolTogether is a prize savings protocol. It makes holding your favourite token exciting by gamifying yield as prizes! | [🥇1st](https://audits.sherlock.xyz/contests/225?filter=results) |
-| 10 May 2024 | Arbitrum Bold | Arbitrum BoLD is a new dispute protocol that enables permissionless validation by mitigating the risks of delay attacks with a fixed upper time bound for challenge resolution in an all-vs-all format. | [🥉3rd](https://code4rena.com/audits/2024-05-arbitrum-bold) |
-| 06 May 2024 | Optimism Safe Extensions Competition | OP Labs has developed Safe Modules and a Safe Guard for use on the Security Council safe which is involved in upgrades to OP Mainnet and other chains in the Superchain. | [🥈2nd](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) |
-| 23 Apr 2024 | Teller Finance | Lend, borrow, and launch the FinTechs of tomorrow. Teller brings major financial marketplaces to DeFi. | [🥉3rd](https://audits.sherlock.xyz/contests/295) |
-| 22 Apr 2024 | Exactly Protocol | Exactly Protocol is a decentralized, non-custodial, open-source protocol providing an autonomous fixed and variable interest rate market. | [🥇1st](https://audits.sherlock.xyz/contests/247?filter=results) |
-| 08 Apr 2024 | Zivoe | Zivoe is a real-world asset credit protocol aiming to disrupt predatory high-interest consumer lending. Leveraging a B2B2C model, Zivoe offers on-chain loans to regulated consumer lending entities, who then use that capital to fund consumer credit products off-chain. | [🥉3rd](https://audits.sherlock.xyz/contests/280?filter=results) |
-| 26 May 2023 | Base | A secure, low-cost, developer-friendly Ethereum L2 built to bring the next billion users to web3. | [🥉3rd](https://code4rena.com/audits/2023-05-base) |
+| 02 Sep 2025 | BMX | AMM | [🥇1st](https://audits.sherlock.xyz/contests/1154) |
+| 19 Jun 2025 | Symbiotic Relay | Staking | [🥇1st](https://audits.sherlock.xyz/contests/62?filter=results) |
+| 04 Jun 2025 | Superfluid Locker System | Streaming | [🥇1st](https://audits.sherlock.xyz/contests/968) |
+| 21 May 2025 | Extrafi XLend | Lending | [🥇1st](https://audits.sherlock.xyz/contests/826) |
+| 14 Apr 2025 | Zetachain | L1 | [🥉3rd](https://audits.sherlock.xyz/contests/857) |
+| 11 Mar 2025 | Crestal Network | AI Agent | [🥇1st](https://audits.sherlock.xyz/contests/755) |
+| 07 Mar 2025 | Symmio, Staking and Vesting | Staking | [🥇1st](https://audits.sherlock.xyz/contests/838) |
+| 24 Feb 2025 | Yieldoor | CLMM | [🥇1st](https://audits.sherlock.xyz/contests/62?filter=results) |
+| 13 Jan 2025 | Beraborrow | Lending | [🥈2nd](https://audits.sherlock.xyz/contests/550?filter=results) |
+| 04 Dec 2024 | Autonomint | Hedged Stablecoin | [🥇1st](https://audits.sherlock.xyz/contests/569?filter=results) |
+| 20 Nov 2024 | Superfluid Locker System | Streaming | [🥇1st](https://audits.sherlock.xyz/contests/648) |
+| 15 Nov 2024 | Chiliz Chain System Contracts | L1 | [🥇1st](https://audits.sherlock.xyz/contests/550?filter=results) |
+| 06 Nov 2024 | Telcoin Update #2 | DeFi | [🥇1st](https://audits.sherlock.xyz/contests/643?filter=questions) |
+| 24 Oct 2024 | Mento | Stablecoin | [🥇1st](https://audits.sherlock.xyz/contests/598?filter=results) |
+| 01 Oct 2024 | Primev | MEV | [🥉3rd](https://cantina.xyz/competitions/4ee8716d-3e0e-4f59-b90d-aa56bf3b484c) |
+| 24 Sep 2024 | RedStone | Oracle | [🥈2nd](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd) |
+| 16 Sep 2024 | Saffron Lido Vaults | Staking | [🥇1st](https://audits.sherlock.xyz/contests/509?filter=results) |
+| 29 Aug 2024 | Cork Protocol | Derivatives | [🥇1st](https://audits.sherlock.xyz/contests/506) |
+| 26 Aug 2024 | Rumpel Point Tokenization Protocol | Smart Wallet | [🥇1st](https://audits.sherlock.xyz/contests/494?filter=results) |
+| 16 Aug 2024 | Winnables Raffles | Raffle | [🥉3rd](https://audits.sherlock.xyz/contests/516?filter=results) |
+| 22 Jul 2024 | Exactly Protocol Update - Staking Contract | Staking | [🥇1st](https://audits.sherlock.xyz/contests/396) |
+| 16 May 2024 | PoolTogether: The Prize Layer for DeFi | Raffle | [🥇1st](https://audits.sherlock.xyz/contests/225?filter=results) |
+| 10 May 2024 | Arbitrum Bold | L2 | [🥉3rd](https://code4rena.com/audits/2024-05-arbitrum-bold) |
+| 06 May 2024 | Optimism Safe Extensions Competition | Smart Wallet | [🥈2nd](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) |
+| 23 Apr 2024 | Teller Finance | Lending | [🥉3rd](https://audits.sherlock.xyz/contests/295) |
+| 22 Apr 2024 | Exactly Protocol | Lending | [🥇1st](https://audits.sherlock.xyz/contests/247?filter=results) |
+| 08 Apr 2024 | Zivoe | Lending | [🥉3rd](https://audits.sherlock.xyz/contests/280?filter=results) |
+| 26 May 2023 | Base | L2 | [🥉3rd](https://code4rena.com/audits/2023-05-base) |
