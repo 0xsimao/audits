@@ -1,3 +1,13 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/0xsimao_signature_white_500x500_no_bg.png">
+    <source media="(prefers-color-scheme: light)" srcset="img/0xsimao_signature_black_500x500_no_bg.png">
+    <img src="img/0xsimao_signature_black_500x500_no_bg.png" alt="0xsimao signature" width="300">
+  </picture>
+</p>
+
+---
+
 # Introduction
 
 I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **28** Top-3 finishes and **60+** private audits.
