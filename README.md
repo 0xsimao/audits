@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="img/0xsimao_signature_white_500x500_no_bg.png">
     <source media="(prefers-color-scheme: light)" srcset="img/0xsimao_signature_black_500x500_no_bg.png">
-    <img src="img/0xsimao_signature_black_500x500_no_bg.png" alt="0xsimao signature" width="500">
+    <img src="img/0xsimao_signature_black_500x500_no_bg.png" alt="0xsimao signature" width="300">
   </picture>
 </p>
 
