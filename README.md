@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/0xsimao_signature_white_500x500_no_bg.png">
-    <source media="(prefers-color-scheme: light)" srcset="img/0xsimao_signature_black_500x500_no_bg.png">
-    <img src="img/0xsimao_signature_black_500x500_no_bg.png" alt="0xsimao signature" width="300">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xsimao/audits/main/img/0xsimao_signature_white_500x500_no_bg.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xsimao/audits/main/img/0xsimao_signature_black_500x500_no_bg.png">
+    <img src="https://raw.githubusercontent.com/0xsimao/audits/main/img/0xsimao_signature_black_500x500_no_bg.png" alt="0xsimao signature" width="300">
   </picture>
 </p>
 
@@ -32,7 +32,7 @@ I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **3
 | 20 Jul 2026 | Tread.fi | Sherlock | Trading infrastructure | - |
 | 15 Jul 2026 | Fira CDOSquared | Sherlock | Fixed-rate lending | - |
 | 14 Jul 2026 | Morpho Blue Bundles | Blackthorn | Lending | - |
-| 06 Jul 2026 | Infra Labs USHP | Sherlock | REVIEW — no public information found for this engagement | - |
+| 06 Jul 2026 | Infra Labs USHP | Sherlock | Yield tokenisation | - |
 | 05 Jul 2026 | Tenor | Sherlock | Fixed-rate lending | [Report](https://github.com/tenor-labs/tenor-contracts/blob/main/audits/2026-07-Sherlock-review.pdf) |
 | 01 Jul 2026 | Redacted | Solo | - | - |
 | 01 Jul 2026 | Redacted | Solo | - | - |
