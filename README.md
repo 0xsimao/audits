@@ -1,3 +1,5 @@
+# 0xSimao Smart Contract Audits
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xsimao/audits/main/img/0xsimao_signature_white_500x500_no_bg.png">
@@ -6,17 +8,7 @@
   </picture>
 </p>
 
----
-
-Audit portfolio of [0xSimao](https://www.0xsimao.com/):
-
-* Participated in 57 public smart contract audit competitions, having won 21 and a total of [$627K+](https://audits.sherlock.xyz/watson/0x73696d616f) in prizes.
-* Led 85 private audits across most blockchain domains, including many leading projects.
-* [Watson of the Year 2025](https://sherlock.xyz/post/the-2025-sherlock-watson-awards) on [Sherlock](https://audits.sherlock.xyz/), the security researcher who had the greatest impact on Sherlock that year, in over 9904 registered accounts.
-* Founding Member of [Blackthorn](https://www.blackthorn.xyz/team), a top-tier auditing firm with 11 renowned professionals in Web3 security.
-* Former Head of Security at [Three Sigma](https://threesigma.xyz/), having led 30+ audits.
-* Hold a Master's in Aerospace Engineering.
-* Founder of the [Contest Academy](https://www.0xsimao.com/the-contest-academy), featuring bug deep dives, 1:1 mentorship, and guidance for competitive auditing.
+[www.0xsimao.com](https://www.0xsimao.com/)
 
 [Request an Audit](https://t.me/OxSimao)
 
