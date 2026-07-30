@@ -3,12 +3,14 @@
 Every security review published under this name: the report, and the
 codebase it was performed on.
 
-A folder per firm holds the reports. `audit-codebases/` holds one
-submodule per review, each a fork of the client's repository pinned to
-the commit the review was performed at — the fork is what keeps the code
-readable if the client's copy goes away, and the pin is what keeps it
-the code that was read rather than the code as it is today. Every fork
-also carries an `audit` branch and an `audited` tag at that commit.
+A folder per firm holds the reports; the two that ran both kinds of work
+split theirs into `private-audits/` and `contests/`. `audit-codebases/`
+holds one submodule per review, each a fork of the client's repository
+pinned to the commit the review was performed at — the fork is what keeps
+the code readable if the client's copy goes away, and the pin is what
+keeps it the code that was read rather than the code as it is today.
+Every fork also carries an `audit` branch and an `audited` tag at that
+commit.
 
 ```sh
 git clone --recurse-submodules https://github.com/0xsimao/audits
@@ -22,7 +24,7 @@ git submodule update --init audit-codebases/<review>
 
 ## Reports
 
-### Three Sigma — 23 reviews
+### Three Sigma — 23 private reviews
 
 | Review | Date | Report | Published at |
 |---|---|---|---|
@@ -50,25 +52,25 @@ git submodule update --init audit-codebases/<review>
 | Glacier | 2023-07-12 | [2023-07-12-glacier.pdf](Three%20Sigma/2023-07-12-glacier.pdf) | [link](https://cdn.sanity.io/files/qoqld077/production/21bd3b6fa78c55968a6c9c7ea4fd49f34a8bd3d8.pdf) |
 | Fuji Finance | 2023-05-06 | [2023-05-06-fuji-finance.pdf](Three%20Sigma/2023-05-06-fuji-finance.pdf) | [link](https://cdn.sanity.io/files/qoqld077/staging/32181a28eac3175d15fb8924d249bb0d91ca350c.pdf) |
 
-### Sherlock — 13 reviews
+### Sherlock — 13 private reviews, and 23 public competitions in [Sherlock/contests/](Sherlock/contests/)
 
 | Review | Date | Report | Published at |
 |---|---|---|---|
-| Tenor | 2026-07-05 | [2026-07-05-tenor.pdf](Sherlock/2026-07-05-tenor.pdf) | [link](https://github.com/tenor-labs/tenor-contracts/blob/main/audits/2026-07-Sherlock-review.pdf) |
-| Morpho | 2026-06-10 | [2026-06-10-morpho.pdf](Sherlock/2026-06-10-morpho.pdf) | [link](https://github.com/morpho-org/vault-v2/blob/main/audits/2026-07-08-gates-blackthorn.pdf) |
-| ODEI | 2026-06-05 | [2026-06-05-odei.pdf](Sherlock/2026-06-05-odei.pdf) | [link](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2026.06.16%20-%20Final%20-%20ODEI%20Collaborative%20Audit%20Report%201781625249.pdf) |
-| Superfluid | 2026-01-13 | [2026-01-13-superfluid.pdf](Sherlock/2026-01-13-superfluid.pdf) | [link](https://github.com/superfluid-org/protocol-monorepo/blob/dev/packages/ethereum-contracts/audits/2026-01-27%20-%20Final%20-%20Superfluid%20Collaborative%20Audit%20Report%201769517931.pdf) |
-| Usual III | 2025-12-02 | [2025-12-02-usual-iii.pdf](Sherlock/2025-12-02-usual-iii.pdf) | [link](https://drive.google.com/file/d/1knlIgoEGv5x33n9mhTLRqJe8T55r3HCy/view) |
-| Maple Finance III | 2025-10-22 | [2025-10-22-maple-finance-iii.pdf](Sherlock/2025-10-22-maple-finance-iii.pdf) | [link](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-november/Sherlock-Maple-Finance-WM-Nov-2025.pdf) |
-| Maple Finance II | 2025-09-08 | [2025-09-08-maple-finance-ii.pdf](Sherlock/2025-09-08-maple-finance-ii.pdf) | [link](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-sept-governor-timelock/Sherlock-Maple-Finance-timelock-Sept-2025.pdf) |
-| Usual I | 2025-06-03 | [2025-06-03-usual-i.pdf](Sherlock/2025-06-03-usual-i.pdf) | [link](https://1503334455-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpUhQzPJGdJzuLTQ5sCym%2Fuploads%2F8gq6et5OGqJHJGphqav6%2FSherlock-%20Audit%20report%20on%20USD0%2B%2B%20upgrade%20(Burn%20Redemption%20Mechanism).pdf?alt=media&token=27674355-9c34-496e-970d-723f522221fa) |
-| Beraborrow I | 2025-04-25 | [2025-04-25-beraborrow-i.pdf](Sherlock/2025-04-25-beraborrow-i.pdf) | [link](https://1570492309-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FffzDCMBDa391vIMqruBP%2Fuploads%2FUKDtjc6Dkn6P6i35j5H1%2FManaged%20Leverage%20Vaults%20v0%20private%20audit%20Sherlock.pdf?alt=media&token=c7304efa-8040-4ed0-9a98-dc949af28a85) |
-| Aegis | 2025-04-22 | [2025-04-22-aegis.pdf](Sherlock/2025-04-22-aegis.pdf) | [link](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2025.04.26%20-%20Final%20-%20Aegis%20Collaborative%20Audit%20Report.pdf) |
-| 1Inch | 2025-04-14 | [2025-04-14-1inch.pdf](Sherlock/2025-04-14-1inch.pdf) | [link](https://github.com/1inch/1inch-audits/blob/master/Fees%20for%20LO%20and%20Fusion%20V1/Fee%20flow%20v1-Sherlock.pdf) |
-| Gaib | 2025-03-28 | [2025-03-28-gaib.pdf](Sherlock/2025-03-28-gaib.pdf) | [link](https://4221781861-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLXNTW9blcTeiKZrMFhab%2Fuploads%2FQMsETA4dRNo2auiUSeOX%2FAIDa%20Vault%20Audit_20250411.pdf?alt=media&token=5e2f84ea-9698-4fa7-81ef-503771d234aa) |
-| Nerite | 2025-02-03 | [2025-12-02-usual-iii.pdf](Sherlock/2025-12-02-usual-iii.pdf) (same file) | [link](https://drive.google.com/file/d/1knlIgoEGv5x33n9mhTLRqJe8T55r3HCy/view) |
+| Tenor | 2026-07-05 | [2026-07-05-tenor.pdf](Sherlock/private-audits/2026-07-05-tenor.pdf) | [link](https://github.com/tenor-labs/tenor-contracts/blob/main/audits/2026-07-Sherlock-review.pdf) |
+| Morpho | 2026-06-10 | [2026-06-10-morpho.pdf](Sherlock/private-audits/2026-06-10-morpho.pdf) | [link](https://github.com/morpho-org/vault-v2/blob/main/audits/2026-07-08-gates-blackthorn.pdf) |
+| ODEI | 2026-06-05 | [2026-06-05-odei.pdf](Sherlock/private-audits/2026-06-05-odei.pdf) | [link](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2026.06.16%20-%20Final%20-%20ODEI%20Collaborative%20Audit%20Report%201781625249.pdf) |
+| Superfluid | 2026-01-13 | [2026-01-13-superfluid.pdf](Sherlock/private-audits/2026-01-13-superfluid.pdf) | [link](https://github.com/superfluid-org/protocol-monorepo/blob/dev/packages/ethereum-contracts/audits/2026-01-27%20-%20Final%20-%20Superfluid%20Collaborative%20Audit%20Report%201769517931.pdf) |
+| Usual III | 2025-12-02 | [2025-12-02-usual-iii.pdf](Sherlock/private-audits/2025-12-02-usual-iii.pdf) | [link](https://drive.google.com/file/d/1knlIgoEGv5x33n9mhTLRqJe8T55r3HCy/view) |
+| Maple Finance III | 2025-10-22 | [2025-10-22-maple-finance-iii.pdf](Sherlock/private-audits/2025-10-22-maple-finance-iii.pdf) | [link](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-november/Sherlock-Maple-Finance-WM-Nov-2025.pdf) |
+| Maple Finance II | 2025-09-08 | [2025-09-08-maple-finance-ii.pdf](Sherlock/private-audits/2025-09-08-maple-finance-ii.pdf) | [link](https://github.com/maple-labs/maple-core-v2/blob/main/audits/2025-sept-governor-timelock/Sherlock-Maple-Finance-timelock-Sept-2025.pdf) |
+| Usual I | 2025-06-03 | [2025-06-03-usual-i.pdf](Sherlock/private-audits/2025-06-03-usual-i.pdf) | [link](https://1503334455-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpUhQzPJGdJzuLTQ5sCym%2Fuploads%2F8gq6et5OGqJHJGphqav6%2FSherlock-%20Audit%20report%20on%20USD0%2B%2B%20upgrade%20(Burn%20Redemption%20Mechanism).pdf?alt=media&token=27674355-9c34-496e-970d-723f522221fa) |
+| Beraborrow I | 2025-04-25 | [2025-04-25-beraborrow-i.pdf](Sherlock/private-audits/2025-04-25-beraborrow-i.pdf) | [link](https://1570492309-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FffzDCMBDa391vIMqruBP%2Fuploads%2FUKDtjc6Dkn6P6i35j5H1%2FManaged%20Leverage%20Vaults%20v0%20private%20audit%20Sherlock.pdf?alt=media&token=c7304efa-8040-4ed0-9a98-dc949af28a85) |
+| Aegis | 2025-04-22 | [2025-04-22-aegis.pdf](Sherlock/private-audits/2025-04-22-aegis.pdf) | [link](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2025.04.26%20-%20Final%20-%20Aegis%20Collaborative%20Audit%20Report.pdf) |
+| 1Inch | 2025-04-14 | [2025-04-14-1inch.pdf](Sherlock/private-audits/2025-04-14-1inch.pdf) | [link](https://github.com/1inch/1inch-audits/blob/master/Fees%20for%20LO%20and%20Fusion%20V1/Fee%20flow%20v1-Sherlock.pdf) |
+| Gaib | 2025-03-28 | [2025-03-28-gaib.pdf](Sherlock/private-audits/2025-03-28-gaib.pdf) | [link](https://4221781861-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLXNTW9blcTeiKZrMFhab%2Fuploads%2FQMsETA4dRNo2auiUSeOX%2FAIDa%20Vault%20Audit_20250411.pdf?alt=media&token=5e2f84ea-9698-4fa7-81ef-503771d234aa) |
+| Nerite | 2025-02-03 | [2025-12-02-usual-iii.pdf](Sherlock/private-audits/2025-12-02-usual-iii.pdf) (same file) | [link](https://drive.google.com/file/d/1knlIgoEGv5x33n9mhTLRqJe8T55r3HCy/view) |
 
-### 0xSimao — 5 reviews
+### 0xSimao — 5 private reviews
 
 | Review | Date | Report | Published at |
 |---|---|---|---|
@@ -78,7 +80,7 @@ git submodule update --init audit-codebases/<review>
 | Yieldoor I | 2025-05-12 | [2025-05-12-yieldoor-i.pdf](0xSimao/2025-05-12-yieldoor-i.pdf) | [link](https://github.com/0xSimao/audits/blob/main/2025-05-12-yieldoor.pdf) |
 | Felix | 2025-03-14 | [2025-03-14-felix.pdf](0xSimao/2025-03-14-felix.pdf) | [link](https://github.com/0xSimao/audits/blob/main/2025-03-14-felix.pdf) |
 
-### Blackthorn — 4 reviews
+### Blackthorn — 4 private reviews
 
 | Review | Date | Report | Published at |
 |---|---|---|---|
@@ -87,13 +89,13 @@ git submodule update --init audit-codebases/<review>
 | Morpho Midnight | 2026-04-06 | [2026-04-06-morpho-midnight.pdf](Blackthorn/2026-04-06-morpho-midnight.pdf) | [link](https://github.com/morpho-org/midnight/blob/main/audits/2026-07-02-blackthorn.pdf) |
 | Morpho Vault V2 | 2025-08-13 | [2025-08-13-morpho-vault-v2.pdf](Blackthorn/2025-08-13-morpho-vault-v2.pdf) | [link](https://github.com/morpho-org/vault-v2/blob/main/audits/2025-09-15-blackthorn.pdf) |
 
-### Code4rena — 3 reviews, and 14 public competitions in [Code4rena/](Code4rena/)
+### Code4rena — 3 private reviews, and 14 public competitions in [Code4rena/contests/](Code4rena/contests/)
 
 | Review | Date | Report | Published at |
 |---|---|---|---|
-| BendDAO | 2024-06-19 | [2024-06-19-benddao.md](Code4rena/2024-06-19-benddao.md) | [link](https://code4rena.com/audits/2024-07-benddao-invitational) |
-| INIT Capital I | 2024-01-26 | [2024-01-26-init-capital-i.md](Code4rena/2024-01-26-init-capital-i.md) | [link](https://code4rena.com/reports/2024-01-init-capital-invitational) |
-| INIT Capital II | 2023-12-15 | [2023-12-15-init-capital-ii.md](Code4rena/2023-12-15-init-capital-ii.md) | [link](https://code4rena.com/reports/2023-12-initcapital) |
+| BendDAO | 2024-06-19 | [2024-06-19-benddao.md](Code4rena/private-audits/2024-06-19-benddao.md) | [link](https://code4rena.com/audits/2024-07-benddao-invitational) |
+| INIT Capital I | 2024-01-26 | [2024-01-26-init-capital-i.md](Code4rena/private-audits/2024-01-26-init-capital-i.md) | [link](https://code4rena.com/reports/2024-01-init-capital-invitational) |
+| INIT Capital II | 2023-12-15 | [2023-12-15-init-capital-ii.md](Code4rena/private-audits/2023-12-15-init-capital-ii.md) | [link](https://code4rena.com/reports/2023-12-initcapital) |
 
 ## Codebases
 
