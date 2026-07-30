@@ -12,7 +12,7 @@ Audit portfolio of [0xSimao](https://www.0xsimao.com/):
 
 * Participated in 57 public smart contract audit competitions, having won 21 and a total of [$627K+](https://audits.sherlock.xyz/watson/0x73696d616f) in prizes.
 * Led 85 private audits across most blockchain domains, including many leading projects.
-* [Watson of the year 2025](https://audits.sherlock.xyz/leaderboards) on Sherlock, the best auditor of that year in over 9904 registered accounts.
+* [Watson of the year 2025](https://audits.sherlock.xyz/leaderboards) on [Sherlock](https://audits.sherlock.xyz/), the best auditor of that year in over 9904 registered accounts.
 * Founding Member of [Blackthorn](https://www.blackthorn.xyz/team), a top-tier auditing firm with 11 renowned professionals in Web3 security.
 * Former Head of Security at [Three Sigma](https://threesigma.xyz/), having led 30+ audits.
 * Hold a Master's in Aerospace Engineering.
