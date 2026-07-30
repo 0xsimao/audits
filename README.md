@@ -8,17 +8,15 @@
 
 ---
 
-# Introduction
+Audit portfolio of [0xSimao](https://www.0xsimao.com/):
 
-I am [0xSimao](https://www.0xsimao.com/), an Expert Security Researcher with **30** Top-3 finishes and **85** private audits.
-
-- Proven track record in public smart contract audit competitions, with [$627K+](https://audits.sherlock.xyz/watson/0x73696d616f) in prizes won across **57** competitions entered, **21** of them first place.
-- Led **85** private audits across most blockchain domains, including many leading projects.
-- [2nd Place](https://audits.sherlock.xyz/leaderboards) on Sherlock, with an Elo rating in the **top 0.02%** (out of 9904+ registered accounts).
-- Founding Member of [Blackthorn](https://www.blackthorn.xyz/team), a top-tier auditing firm with 11 renowned professionals in Web3 security.
-- Former Head of Security at [Three Sigma](https://threesigma.xyz/), where I led 30+ audits.
-- Hold a Master's in Aerospace Engineering, bringing advanced analytical skills to complex Web3 security audits.
-- Founder of the [Contest Academy](https://www.0xsimao.com/the-contest-academy), featuring bug deep dives, 1:1 mentorship, and guidance for competitive auditing.
+* Participated in 57 public smart contract audit competitions, having won 21 and a total of [$627K+](https://audits.sherlock.xyz/watson/0x73696d616f) in prizes.
+* Led 85 private audits across most blockchain domains, including many leading projects.
+* [Watson of the year 2025](https://audits.sherlock.xyz/leaderboards) on Sherlock, the best auditor of that year in over 9904 registered accounts.
+* Founding Member of [Blackthorn](https://www.blackthorn.xyz/team), a top-tier auditing firm with 11 renowned professionals in Web3 security.
+* Former Head of Security at [Three Sigma](https://threesigma.xyz/), having led 30+ audits.
+* Hold a Master's in Aerospace Engineering.
+* Founder of the [Contest Academy](https://www.0xsimao.com/the-contest-academy), featuring bug deep dives, 1:1 mentorship, and guidance for competitive auditing.
 
 [Request an Audit](https://t.me/OxSimao)
 
