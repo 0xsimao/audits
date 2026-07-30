@@ -4,20 +4,19 @@ Every security review published under this name: the report, and the
 codebase it was performed on.
 
 A folder per firm holds the reports. `audit-codebases/` holds one
-submodule per review, each a fork of the client's repository pinned
-to the commit the review was performed at — the fork is what keeps
-the code readable if the client's copy goes away, and the pin is
-what keeps it the code that was read rather than the code as it is
-today. Every fork also carries an `audit` branch and an `audited`
-tag at that commit.
+submodule per review, each a fork of the client's repository pinned to
+the commit the review was performed at — the fork is what keeps the code
+readable if the client's copy goes away, and the pin is what keeps it
+the code that was read rather than the code as it is today. Every fork
+also carries an `audit` branch and an `audited` tag at that commit.
 
-```
+```sh
 git clone --recurse-submodules https://github.com/0xsimao/audits
 ```
 
 Or one review on its own:
 
-```
+```sh
 git submodule update --init audit-codebases/<review>
 ```
 
@@ -88,20 +87,20 @@ git submodule update --init audit-codebases/<review>
 | Morpho Midnight | 2026-04-06 | [2026-04-06-morpho-midnight.pdf](Blackthorn/2026-04-06-morpho-midnight.pdf) | [link](https://github.com/morpho-org/midnight/blob/main/audits/2026-07-02-blackthorn.pdf) |
 | Morpho Vault V2 | 2025-08-13 | [2025-08-13-morpho-vault-v2.pdf](Blackthorn/2025-08-13-morpho-vault-v2.pdf) | [link](https://github.com/morpho-org/vault-v2/blob/main/audits/2025-09-15-blackthorn.pdf) |
 
-### Code4rena — 3 reviews
+### Code4rena — 3 reviews, and 14 public competitions in [Code4rena/](Code4rena/)
 
 | Review | Date | Report | Published at |
 |---|---|---|---|
-| BendDAO | 2024-06-19 | — | [link](https://code4rena.com/audits/2024-07-benddao-invitational) |
-| INIT Capital I | 2024-01-26 | — | [link](https://code4rena.com/reports/2024-01-init-capital-invitational) |
-| INIT Capital II | 2023-12-15 | — | [link](https://code4rena.com/reports/2023-12-initcapital) |
+| BendDAO | 2024-06-19 | [2024-06-19-benddao.md](Code4rena/2024-06-19-benddao.md) | [link](https://code4rena.com/audits/2024-07-benddao-invitational) |
+| INIT Capital I | 2024-01-26 | [2024-01-26-init-capital-i.md](Code4rena/2024-01-26-init-capital-i.md) | [link](https://code4rena.com/reports/2024-01-init-capital-invitational) |
+| INIT Capital II | 2023-12-15 | [2023-12-15-init-capital-ii.md](Code4rena/2023-12-15-init-capital-ii.md) | [link](https://code4rena.com/reports/2023-12-initcapital) |
 
 ## Codebases
 
-36 reviews whose codebase is open, each pinned to its own
-commit.
+36 reviews whose codebase is open, each pinned to the
+commit it was reviewed at.
 
-| Review | Firm | Codebase | Commit |
+| Review | Firm | Codebase | Reviewed at |
 |---|---|---|---|
 | Morpho Blue Bundles | Blackthorn | [morpho-org/bundles](https://github.com/morpho-org/bundles) | [`713af6ddfa`](https://github.com/0xsimao/bundles/tree/713af6ddfa64270c4ac8689532f05306a8ac72ea) |
 | Morpho Midnight | Blackthorn | [morpho-org/midnight](https://github.com/morpho-org/midnight) | [`e9085f8c5f`](https://github.com/0xsimao/midnight/tree/e9085f8c5fe96df6e075847b95b0dd7cea86110d) |
