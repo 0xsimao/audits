@@ -66,7 +66,7 @@
 | 09 May 2025 | Kyo Finance | Sherlock | DEX and vote-escrow | - |
 | 25 Apr 2025 | Beraborrow I | Sherlock | CDP stablecoin | [Report](Sherlock/private-audits/2025-04-25-beraborrow-i.pdf) |
 | 22 Apr 2025 | Aegis | Sherlock | Bitcoin-backed stablecoin | [Report](Sherlock/private-audits/2025-04-22-aegis.pdf) |
-| 14 Apr 2025 | 1Inch | Sherlock | DEX aggregator | [Report](Sherlock/private-audits/2025-04-14-1inch.pdf) |
+| 14 Apr 2025 | 1inch | Sherlock | DEX aggregator | [Report](Sherlock/private-audits/2025-04-14-1inch.pdf) |
 | 28 Mar 2025 | Gaib | Sherlock | AI compute financing | [Report](Sherlock/private-audits/2025-03-28-gaib.pdf) |
 | 14 Mar 2025 | Felix | Solo | CDP stablecoin | [Report](0xSimao/2025-03-14-felix.pdf) |
 | 03 Feb 2025 | Nerite | Sherlock | CDP stablecoin | [Report](Sherlock/private-audits/2025-02-03-nerite.pdf) |
@@ -114,7 +114,7 @@
 | 02 Sep 2025 | BMX | Perpetuals DEX | [#1](https://audits.sherlock.xyz/contests/1154) | [10](https://0xsimao.0xsimao.workers.dev/findings#bmx-2025-09-02) |
 | 10 Jul 2025 | Cap | Stablecoin issuer | [#14](https://audits.sherlock.xyz/contests/990) | [2](https://0xsimao.0xsimao.workers.dev/findings#cap-2025-07-10) |
 | 19 Jun 2025 | Symbiotic Relay | Staking | [#1](https://audits.sherlock.xyz/contests/967) | [5](https://0xsimao.0xsimao.workers.dev/findings#symbiotic-relay-2025-06-19) |
-| 04 Jun 2025 | Superfluid Locker System II | Streaming | [#1](https://audits.sherlock.xyz/contests/968) | [6](https://0xsimao.0xsimao.workers.dev/findings#superfluid-locker-system-ii-2025-06-04) |
+| 04 Jun 2025 | Superfluid Locker System II | Streaming | [#1](https://audits.sherlock.xyz/contests/968) | [6](https://0xsimao.0xsimao.workers.dev/findings#superfluid-locker-system-2025-06-04) |
 | 21 May 2025 | Extrafi XLend | Lending | [#1](https://audits.sherlock.xyz/contests/826) | - |
 | 14 Apr 2025 | Zetachain | L1 | [#3](https://audits.sherlock.xyz/contests/857) | - |
 | 03 Apr 2025 | Staking Part 2 | Starknet L2 staking | [#9](https://codehawks.cyfrin.io/contests/cm8iwzzel0002jv03235nowd6) | - |
@@ -139,7 +139,7 @@
 | 26 Aug 2024 | Rumpel Point Tokenization Protocol | Smart Wallet | [#1](https://audits.sherlock.xyz/contests/494) | - |
 | 16 Aug 2024 | Winnables Raffles | Raffle | [#3](https://audits.sherlock.xyz/contests/516) | [6](https://0xsimao.0xsimao.workers.dev/findings#winnables-raffles-2024-08-16) |
 | 12 Aug 2024 | IOP \| ThunderNFT | NFT marketplace on Fuel | [#4](https://immunefi.com/audit-competition/thundernft-iop) | - |
-| 22 Jul 2024 | Exactly Protocol Update - Staking Contract II | Staking | [#1](https://audits.sherlock.xyz/contests/396) | [12](https://0xsimao.0xsimao.workers.dev/findings#exactly-protocol-update-staking-contract-ii-2024-07-22) |
+| 22 Jul 2024 | Exactly Protocol Update - Staking Contract II | Staking | [#1](https://audits.sherlock.xyz/contests/396) | [12](https://0xsimao.0xsimao.workers.dev/findings#exactly-protocol-update-staking-contract-2024-07-22) |
 | 17 Jun 2024 | Attackathon \| Fuel Network | Modular execution layer | [#27](https://immunefi.com/audit-competition/fuel-network-attackathon) | - |
 | 16 May 2024 | PoolTogether: The Prize Layer for DeFi | Raffle | [#1](https://audits.sherlock.xyz/contests/225) | [12](https://0xsimao.0xsimao.workers.dev/findings#pooltogether-the-prize-layer-for-defi-2024-05-16) |
 | 10 May 2024 | Arbitrum Bold | L2 | [#3](https://code4rena.com/audits/2024-05-arbitrum-bold) | [1](https://0xsimao.0xsimao.workers.dev/findings#arbitrum-bold-2024-05-10) |
