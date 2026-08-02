@@ -14,22 +14,22 @@
 
 ---
 
-# Private Audits — 85
+# Private Audits — 86
 
 | Date | Project | Organization | Category | Report |
 |------|---------|--------------|----------|--------|
+| 24 Jul 2026 | Redacted | Solo | - | - |
 | 23 Jul 2026 | Morpho Midnight II | Blackthorn | Lending | - |
 | 20 Jul 2026 | Tread.fi | Sherlock | Trading infrastructure | - |
 | 15 Jul 2026 | Fira CDOSquared | Sherlock | Fixed-rate lending | - |
 | 14 Jul 2026 | Morpho Blue Bundles | Blackthorn | Lending | [Report](Blackthorn/2026-07-14-morpho-blue-bundles.pdf) |
 | 06 Jul 2026 | Infra Labs USHP | Sherlock | Yield tokenisation | - |
 | 05 Jul 2026 | Tenor | Sherlock | Fixed-rate lending | [Report](Sherlock/private-audits/2026-07-05-tenor.pdf) |
-| 01 Jul 2026 | Redacted | Solo | - | - |
-| 01 Jul 2026 | Redacted | Solo | - | - |
+| 03 Jul 2026 | Redacted | Solo | - | - |
+| 26 Jun 2026 | Redacted | Solo | - | - |
 | 11 Jun 2026 | Morpho II | Sherlock | Lending | - |
 | 10 Jun 2026 | Morpho | Sherlock | Lending | [Report](Sherlock/private-audits/2026-06-10-morpho.pdf) |
 | 05 Jun 2026 | ODEI | Sherlock | AI agent infrastructure | [Report](Sherlock/private-audits/2026-06-05-odei.pdf) |
-| 01 Jun 2026 | Redacted | Solo | - | - |
 | 22 May 2026 | Tenor Markets | Blackthorn | Fixed-rate lending | [Report](Blackthorn/2026-05-22-tenor-markets.pdf) |
 | 18 May 2026 | Babylon II | Sherlock | Bitcoin staking | - |
 | 13 Apr 2026 | Babylon | Sherlock | Bitcoin staking | - |
@@ -85,6 +85,7 @@
 | 25 Jun 2024 | Mitosis | Three Sigma | Cross-chain liquidity layer 1 | [Report](Three%20Sigma/2024-06-25-mitosis.pdf) |
 | 19 Jun 2024 | BendDAO | Code4rena | NFT lending | [Report](Code4rena/private-audits/2024-06-19-benddao.md) |
 | 13 Jun 2024 | DistrictOne | Three Sigma | Social money games | [Report](Three%20Sigma/2024-06-13-districtone.pdf) |
+| 21 May 2024 | Maple Finance Syrup Router | Three Sigma | Permissionless lending | [Report](Three%20Sigma/2024-05-21-maple-finance-syrup-router.pdf) |
 | 06 Apr 2024 | Metazero II | Three Sigma | Omnichain RWA tokenisation | [Report](Three%20Sigma/2024-04-06-metazero-ii.pdf) |
 | 03 Apr 2024 | Vertex | Three Sigma | Hybrid orderbook DEX | [Report](Three%20Sigma/2024-04-03-vertex.pdf) |
 | 22 Mar 2024 | Keyring I | Three Sigma | Zero-knowledge compliance | - |
