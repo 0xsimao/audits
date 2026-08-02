@@ -43,12 +43,12 @@
 | 27 Jan 2026 | Drake | Sherlock | Perpetuals DEX | - |
 | 13 Jan 2026 | Superfluid | Sherlock | Money streaming | [Report](Sherlock/private-audits/2026-01-13-superfluid.pdf) |
 | 29 Dec 2025 | Usual V | Sherlock | Stablecoin issuer | - |
-| 26 Dec 2025 | Evro Finance II | Sherlock | EUR stablecoin | - |
-| 16 Dec 2025 | Spectra MetaVault | Sherlock | Yield-tokenisation vaults | - |
+| 26 Dec 2025 | Evro Finance II | Sherlock | EUR stablecoin | [Report](Sherlock/private-audits/2025-12-26-evro-finance-ii.pdf) |
+| 16 Dec 2025 | Spectra MetaVault | Sherlock | Yield-tokenisation vaults | [Report](Sherlock/private-audits/2025-12-16-spectra-metavault.pdf) |
 | 02 Dec 2025 | Usual III | Sherlock | Stablecoin issuer | - |
 | 28 Nov 2025 | Spirit Protocol | Solo | AI revenue sharing | [Report](0xSimao/2025-11-28-spirit-protocol.pdf) |
 | 18 Nov 2025 | BMX | Sherlock | Perpetuals DEX | - |
-| 11 Nov 2025 | Usual II | Sherlock | Stablecoin issuer | - |
+| 11 Nov 2025 | Usual II | Sherlock | Stablecoin issuer | [Report](Sherlock/private-audits/2025-11-11-usual-ii.pdf) |
 | 22 Oct 2025 | Maple Finance III | Sherlock | Institutional lending | [Report](Sherlock/private-audits/2025-10-22-maple-finance-iii.pdf) |
 | 15 Sep 2025 | Timeswap v3 | Sherlock | Oracleless money markets | - |
 | 08 Sep 2025 | Maple Finance II | Sherlock | Institutional lending | [Report](Sherlock/private-audits/2025-09-08-maple-finance-ii.pdf) |
@@ -71,12 +71,12 @@
 | 14 Mar 2025 | Felix | Solo | CDP stablecoin | [Report](0xSimao/2025-03-14-felix.pdf) |
 | 03 Feb 2025 | Nerite | Sherlock | CDP stablecoin | [Report](Sherlock/private-audits/2025-02-03-nerite.pdf) |
 | 09 Dec 2024 | Pengu Airdrop | Three Sigma | Airdrop claims | - |
-| 02 Dec 2024 | More Markets | Three Sigma | Lending | - |
+| 02 Dec 2024 | More Markets | Three Sigma | Lending | [Report](Three%20Sigma/2024-12-02-more-markets.pdf) |
 | 26 Nov 2024 | Maple Finance IV | Three Sigma | Institutional lending | [Report](Three%20Sigma/2024-11-26-maple-finance-iv.pdf) |
-| 11 Nov 2024 | Ojo Network | Three Sigma | Oracles | - |
+| 11 Nov 2024 | Ojo Network | Three Sigma | Oracles | [Report](Three%20Sigma/2024-11-11-ojo-network.pdf) |
 | 25 Oct 2024 | Zoo.fun | Three Sigma | Token launchpad | - |
 | 23 Oct 2024 | Codeup | Three Sigma | DeFi game | [Report](Three%20Sigma/2024-10-23-codeup.pdf) |
-| 16 Oct 2024 | Ojo Network | Three Sigma | Oracles | - |
+| 16 Oct 2024 | Ojo Network | Three Sigma | Oracles | [Report](Three%20Sigma/2024-10-16-ojo-network.pdf) |
 | 23 Aug 2024 | Maple Finance Syrup | Three Sigma | Permissionless lending | [Report](Three%20Sigma/2024-08-23-maple-finance-syrup.pdf) |
 | 07 Aug 2024 | Blast Ido Pools | Three Sigma | IDO launchpad | [Report](Three%20Sigma/2024-08-07-blast-ido-pools.pdf) |
 | 15 Jul 2024 | Orange | Three Sigma | Cross-chain bridge | [Report](Three%20Sigma/2024-07-15-orange.pdf) |
@@ -85,16 +85,15 @@
 | 25 Jun 2024 | Mitosis | Three Sigma | Cross-chain liquidity layer 1 | [Report](Three%20Sigma/2024-06-25-mitosis.pdf) |
 | 19 Jun 2024 | BendDAO | Code4rena | NFT lending | [Report](Code4rena/private-audits/2024-06-19-benddao.md) |
 | 13 Jun 2024 | DistrictOne | Three Sigma | Social money games | [Report](Three%20Sigma/2024-06-13-districtone.pdf) |
-| 10 Apr 2024 | Maple Finance III | Three Sigma | Institutional lending | [Report](Three%20Sigma/2024-04-10-maple-finance-iii.pdf) |
 | 06 Apr 2024 | Metazero II | Three Sigma | Omnichain RWA tokenisation | [Report](Three%20Sigma/2024-04-06-metazero-ii.pdf) |
-| 03 Apr 2024 | Vertex | Three Sigma | Hybrid orderbook DEX | - |
+| 03 Apr 2024 | Vertex | Three Sigma | Hybrid orderbook DEX | [Report](Three%20Sigma/2024-04-03-vertex.pdf) |
 | 22 Mar 2024 | Keyring I | Three Sigma | Zero-knowledge compliance | - |
-| 15 Mar 2024 | Clip Finance II | Three Sigma | DeFi infrastructure | - |
+| 15 Mar 2024 | Clip Finance II | Three Sigma | DeFi infrastructure | [Report](Three%20Sigma/2024-03-15-clip-finance-ii.pdf) |
 | 26 Feb 2024 | Singularity | Three Sigma | Private DeFi access | [Report](Three%20Sigma/2024-02-26-singularity.pdf) |
 | 19 Feb 2024 | Ostium | Three Sigma | RWA perpetuals DEX | [Report](Three%20Sigma/2024-02-19-ostium.pdf) |
 | 29 Jan 2024 | NFTPerp II | Three Sigma | NFT perpetuals | [Report](Three%20Sigma/2024-01-29-nftperp-ii.pdf) |
 | 27 Jan 2024 | Metazero I | Three Sigma | Omnichain RWA tokenisation | [Report](Three%20Sigma/2024-01-27-metazero-i.pdf) |
-| 27 Jan 2024 | Trestle | Three Sigma | Modular blockchain infrastructure | - |
+| 27 Jan 2024 | Trestle | Three Sigma | Modular blockchain infrastructure | [Report](Three%20Sigma/2024-01-27-trestle.pdf) |
 | 26 Jan 2024 | INIT Capital I | Code4rena | Money market | [Report](Code4rena/private-audits/2024-01-26-init-capital-i.md) |
 | 08 Jan 2024 | M^0 | Three Sigma | Stablecoin framework | [Report](Three%20Sigma/2024-01-08-m-0.pdf) |
 | 02 Jan 2024 | NftPerp I | Three Sigma | NFT perpetuals | [Report](Three%20Sigma/2024-01-02-nftperp-i.pdf) |
@@ -103,6 +102,7 @@
 | 10 Nov 2023 | Clip Finance I | Three Sigma | DeFi infrastructure | [Report](Three%20Sigma/2023-11-10-clip-finance-i.pdf) |
 | 12 Jul 2023 | Glacier | Three Sigma | Liquid staking | [Report](Three%20Sigma/2023-07-12-glacier.pdf) |
 | 06 May 2023 | Fuji Finance | Three Sigma | Lending aggregator | [Report](Three%20Sigma/2023-05-06-fuji-finance.pdf) |
+| 10 Apr 2023 | Maple Finance III | Three Sigma | Institutional lending | [Report](Three%20Sigma/2023-04-10-maple-finance-iii.pdf) |
 
 # Public Competitions — 57
 
